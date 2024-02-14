@@ -6,7 +6,7 @@
 <html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <title>lukas.csilla.se is hosted by Simply.com and maintained by Lulle23</title>
+    <title>lulle23.csilla.se is hosted by Simply.com and maintained by Lulle23</title>
     <meta name="description" content="lukas.csilla.se is hosted by Simply.com. Check out www.simply.com.">
     <meta name="robots" content="follow, noarchive, nosnippet">
     <meta name="format-detection" content="telephone=no">
